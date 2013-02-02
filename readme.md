@@ -1,3 +1,11 @@
+Digimeta Hackathon Sebrae Campus Party 2013
+============================================
+
+Aplicativo criado durante o Hackathon Sebrae na Campus Party 2013
+
+O desafio era criar um aplicativo com a finalidade de facilitar o uso e aprendizado da Metodologia Canvas
+
+
        Copyright [2013] [Daniel Eid]
 
        Licensed under the Apache License, Version 2.0 (the "License");
